@@ -1,6 +1,7 @@
 <h1>So you want to be a SOC Analyst? By Eric Capuano. <h1>
 
- [Lab Link](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?sd=pf) 
+ [Lab Link](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?sd=pf) <br/>
+ <br />
  [Lab Video by Gerald Auger](https://www.youtube.com/watch?v=oOzihldLz7U&t=421s) 
 
 
