@@ -1,6 +1,6 @@
 <h1>So you want to be a SOC Analyst? By Eric Capuano. <h1>
 
-The goal of this lab was to learn how various types of assaults might affect a system and how to use a variety of tools to identify and block them happening.
+The goal of this lab was to learn how various types of assaults might affect a system and how to use a variety of tools to identify and block them from happening.
 
  [Eric Capuano Lab Link](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?sd=pf) <br/>
  <br />
